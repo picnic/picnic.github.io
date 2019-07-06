@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Dr Picnic</title>
+    <link>http://example.org/games/</link>
+    <description>Recent content in Games on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2018-2019</copyright>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The mysterious stones</title>
+      <link>http://example.org/games/the-myterious-stones/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/games/the-myterious-stones/</guid>
+      <description>This game is an updated version of &amp;ldquo;Le mystère des pierres&amp;rdquo; (which is available only in french), a game developed for the 60 hours &amp;ldquo;Pot-au-Jeu&amp;rdquo; game jam (organized by the french youtuber At0mium).</description>
+    </item>
+    
+    <item>
+      <title>Paperboy Droid</title>
+      <link>http://example.org/games/paperboy-droid/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/games/paperboy-droid/</guid>
+      <description>I created Paperboy Droid in a weekend for At0mium&amp;rsquo;s POT-AU-JEU Game Jam on the theme: Make something new with something old! Paperboy Droid is a remake of Paperboy by Tiger Electronics. This is the first game my dad gave me when I was little. I completely changed the mechanics of the game: you have to program a droid that will play for you by performing the actions of your program. I created the game alone during the game jam weekend, without using prefabricated elements.</description>
+    </item>
+    
+    <item>
+      <title>Great Bee</title>
+      <link>http://example.org/games/great-bee/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/games/great-bee/</guid>
+      <description>In Great Bee, you play a bee that have to forage all the flowers in every level. The frog and the sun are your enemies. Colliding with them kills you. The sun is moving slowly, but the frog is accelerating over time. The sun can also be helpful because when it touches a flower, it will turn it into a strawberry. When you eat a strawberry, you become a super bee for a few seconds and you can slap the frog to reset its speed.</description>
+    </item>
+    
+  </channel>
+</rss>

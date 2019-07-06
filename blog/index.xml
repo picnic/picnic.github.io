@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Dr Picnic</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blog on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2018-2019</copyright>
+    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Game Jam That Mattered</title>
+      <link>http://example.org/blog/game-jam/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/game-jam/</guid>
+      <description>A bit more than two weeks ago, I took part in a game jam organized by a french Youtuber (At0mium). For those who don’t know what a game jam is, it’s basically a video game creation contest where you create a game within a short period of time. In my case, I created the game from scratch during a weekend on the theme: “Faire du neuf avec du vieux”. When I enrolled, I thought that it would be a fun experience and a small break from my current project.</description>
+    </item>
+    
+    <item>
+      <title>Great time with my family</title>
+      <link>http://example.org/blog/great-time-family/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/great-time-family/</guid>
+      <description>A few days after finishing Great Bee (the first game I actually released), I went to a barbecue at my wife’s family. Of course, I took my computer with the game on it. At that point, I had no idea what kind of feedback I would get. I just let them play the game.
+The test started with my wife’s little sister who is in primary school. It was before dinner.</description>
+    </item>
+    
+    <item>
+      <title>Great Bee - First game: done!</title>
+      <link>http://example.org/blog/great-bee/</link>
+      <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/great-bee/</guid>
+      <description>I just finished my first game! It&amp;rsquo;s called Great Bee. You can play it online on itch.io or download it for free. Please share it with your friends if you like it and feel free to write any feedback on the game. In Great Bee, you play a bee that have to forage all the flowers in every level. The frog and the sun are your enemies. Colliding with them kills you.</description>
+    </item>
+    
+    <item>
+      <title>PICO-8 - A Childhood Dream</title>
+      <link>http://example.org/blog/pico-8/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/pico-8/</guid>
+      <description>I read a lot of positive reviews about the PICO-8 fantasy console. Instead of listing the good points it has, I will tell you my story with PICO-8. For those who don’t know, it is a fake console that allows making games within the console itself. This includes code, graphics, sound, music, and maps. The games can be easily shared as PNG cartridge images.
+First, a little background. Short version. I started creating video games long ago and I really loved it.</description>
+    </item>
+    
+  </channel>
+</rss>
