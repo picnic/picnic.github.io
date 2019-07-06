@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeux on Dr Picnic</title>
-    <link>http://example.org/fr/games/</link>
+    <link>https://dr-picnic.com/fr/games/</link>
     <description>Recent content in Jeux on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/fr/games/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dr-picnic.com/fr/games/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The mysterious stones</title>
-      <link>http://example.org/fr/games/the-myterious-stones/</link>
+      <link>https://dr-picnic.com/fr/games/the-myterious-stones/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/the-myterious-stones/</guid>
+      <guid>https://dr-picnic.com/fr/games/the-myterious-stones/</guid>
       <description>Ce jeu est une version améliorée de «Le mystère des pierres», un jeu développé pour la game jam «Pot-au-Jeu» de 60 heures (organisée par At0mium).</description>
     </item>
     
     <item>
       <title>Le Mystère des Pierres</title>
-      <link>http://example.org/fr/games/le-mystere-des-pierres/</link>
+      <link>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/le-mystere-des-pierres/</guid>
+      <guid>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</guid>
       <description>C&amp;rsquo;est ma deuxième participation à la Game Jam POT-AU-JEU et c&amp;rsquo;est aussi ma deuxième Game Jam tout court. J&amp;rsquo;ai voulu aller un peu plus loin que la dernière fois et essayant de développer un jeu plus complexe et faisant appel à de nouvelles compétences.</description>
     </item>
     
     <item>
       <title>Paperboy Droid</title>
-      <link>http://example.org/fr/games/paperboy-droid/</link>
+      <link>https://dr-picnic.com/fr/games/paperboy-droid/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/paperboy-droid/</guid>
+      <guid>https://dr-picnic.com/fr/games/paperboy-droid/</guid>
       <description>J&amp;rsquo;ai créé Paperboy Droid en un weekend pour la POT-AU-JEU Game Jam organisée par At0mium sur le thème de : Faire du neuf avec du vieux ! Paperboy Droid est un remake de Paperboy de Tiger Electronics. Il s&amp;rsquo;agit du premier jeu que mon papa m&amp;rsquo;a offert quand j&amp;rsquo;étais petit. J&amp;rsquo;ai complètement changé la mécanique du jeu : il faut programmer un droïde qui jouera à votre place en exécutant les actions de votre programme.</description>
     </item>
     
     <item>
       <title>Great Bee</title>
-      <link>http://example.org/fr/games/great-bee/</link>
+      <link>https://dr-picnic.com/fr/games/great-bee/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/great-bee/</guid>
+      <guid>https://dr-picnic.com/fr/games/great-bee/</guid>
       <description>Dans Great Bee, vous incarnez une abeille qui doit butiner toutes les fleurs dans chaque niveau. La grenouille et le soleil sont vos ennemis. Les toucher vous tue. Le soleil se déplace lentement, mais la grenouille accélère petit à petit. Le soleil peut aussi s&amp;rsquo;avérer utile car lorsqu&amp;rsquo;il touche une fleur, il l&amp;rsquo;a transforme en fraise. Quand vous mangez une fraise, vous devenez une super abeille pour quelques secondes et vous pouvez donner une baffe à la grenouille pour réduire sa vitesse.</description>
     </item>
     

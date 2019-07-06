@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Picnic</title>
-    <link>http://example.org/fr/</link>
+    <link>https://dr-picnic.com/fr/</link>
     <description>Recent content on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dr-picnic.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The mysterious stones</title>
-      <link>http://example.org/fr/games/the-myterious-stones/</link>
+      <link>https://dr-picnic.com/fr/games/the-myterious-stones/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/the-myterious-stones/</guid>
+      <guid>https://dr-picnic.com/fr/games/the-myterious-stones/</guid>
       <description>Ce jeu est une version améliorée de «Le mystère des pierres», un jeu développé pour la game jam «Pot-au-Jeu» de 60 heures (organisée par At0mium).</description>
     </item>
     
     <item>
       <title>Le Mystère des Pierres</title>
-      <link>http://example.org/fr/games/le-mystere-des-pierres/</link>
+      <link>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/le-mystere-des-pierres/</guid>
+      <guid>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</guid>
       <description>C&amp;rsquo;est ma deuxième participation à la Game Jam POT-AU-JEU et c&amp;rsquo;est aussi ma deuxième Game Jam tout court. J&amp;rsquo;ai voulu aller un peu plus loin que la dernière fois et essayant de développer un jeu plus complexe et faisant appel à de nouvelles compétences.</description>
     </item>
     
     <item>
       <title>Une Game Jam importante</title>
-      <link>http://example.org/fr/blog/game-jam/</link>
+      <link>https://dr-picnic.com/fr/blog/game-jam/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/blog/game-jam/</guid>
+      <guid>https://dr-picnic.com/fr/blog/game-jam/</guid>
       <description>Il y a un peu plus de deux semaines, j&amp;rsquo;ai participé à une game jam organisée par un Youtuber français (At0mium). Pour ceux qui ne savent pas ce qu’est une game jam, il s’agit essentiellement d’un concours de création de jeux vidéo où vous créez un jeu rapidement. Dans mon cas, j&amp;rsquo;ai créé le jeu à partir de zéro lors d&amp;rsquo;un week-end sur le thème &amp;ldquo;Faire du neuf avec du vieux&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Paperboy Droid</title>
-      <link>http://example.org/fr/games/paperboy-droid/</link>
+      <link>https://dr-picnic.com/fr/games/paperboy-droid/</link>
       <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/paperboy-droid/</guid>
+      <guid>https://dr-picnic.com/fr/games/paperboy-droid/</guid>
       <description>J&amp;rsquo;ai créé Paperboy Droid en un weekend pour la POT-AU-JEU Game Jam organisée par At0mium sur le thème de : Faire du neuf avec du vieux ! Paperboy Droid est un remake de Paperboy de Tiger Electronics. Il s&amp;rsquo;agit du premier jeu que mon papa m&amp;rsquo;a offert quand j&amp;rsquo;étais petit. J&amp;rsquo;ai complètement changé la mécanique du jeu : il faut programmer un droïde qui jouera à votre place en exécutant les actions de votre programme.</description>
     </item>
     
     <item>
       <title>Un super moment en famille</title>
-      <link>http://example.org/fr/blog/great-time-family/</link>
+      <link>https://dr-picnic.com/fr/blog/great-time-family/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/blog/great-time-family/</guid>
+      <guid>https://dr-picnic.com/fr/blog/great-time-family/</guid>
       <description>Quelques jours après avoir terminé Great Bee (le premier jeu que j&amp;rsquo;ai sorti), je suis allé faire un barbecue dans la famille de ma femme. Bien sûr, j&amp;rsquo;ai pris mon ordinateur avec le jeu dessus. À ce moment-là, je n&amp;rsquo;avais aucune idée du genre de réaction que j&amp;rsquo;obtiendrais. Je les ai juste laissé jouer le jeu.
 Le test a commencé avec la petite sœur de ma femme qui est à l&amp;rsquo;école primaire.</description>
     </item>
     
     <item>
       <title>Great Bee</title>
-      <link>http://example.org/fr/games/great-bee/</link>
+      <link>https://dr-picnic.com/fr/games/great-bee/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/games/great-bee/</guid>
+      <guid>https://dr-picnic.com/fr/games/great-bee/</guid>
       <description>Dans Great Bee, vous incarnez une abeille qui doit butiner toutes les fleurs dans chaque niveau. La grenouille et le soleil sont vos ennemis. Les toucher vous tue. Le soleil se déplace lentement, mais la grenouille accélère petit à petit. Le soleil peut aussi s&amp;rsquo;avérer utile car lorsqu&amp;rsquo;il touche une fleur, il l&amp;rsquo;a transforme en fraise. Quand vous mangez une fraise, vous devenez une super abeille pour quelques secondes et vous pouvez donner une baffe à la grenouille pour réduire sa vitesse.</description>
     </item>
     
     <item>
       <title>Great Bee - Premier jeu : fini!</title>
-      <link>http://example.org/fr/blog/great-bee/</link>
+      <link>https://dr-picnic.com/fr/blog/great-bee/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/blog/great-bee/</guid>
+      <guid>https://dr-picnic.com/fr/blog/great-bee/</guid>
       <description>Je viens de terminer mon premier jeu! Il s&amp;rsquo;appelle Great Bee. Vous pouvez y jouer en ligne sur itch.io ou le télécharger gratuitement. N’hésitez pas à le partager avec vos amis si vous l&amp;rsquo;aimez et à écrire des commentaires sur le jeu. Dans Great Bee, vous jouez une abeille qui doit butiner toutes les fleurs de chaque niveau. Vos ennemis sont la grenouille et le soleil. Les toucher vous tue. Le soleil se déplace lentement, mais la grenouille accélère avec le temps.</description>
     </item>
     
     <item>
       <title>PICO-8 - Un rêve d&#39;enfance</title>
-      <link>http://example.org/fr/blog/pico-8/</link>
+      <link>https://dr-picnic.com/fr/blog/pico-8/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/blog/pico-8/</guid>
+      <guid>https://dr-picnic.com/fr/blog/pico-8/</guid>
       <description>J&amp;rsquo;ai lu beaucoup de commentaires positifs sur la console virtuelle PICO-8. Au lieu d&amp;rsquo;énumérer les bons points de cette console, je vais vous raconter mon histoire avec la PICO-8. Pour ceux qui ne connaissent pas, c&amp;rsquo;est une fausse console qui permet de concevoir des jeux dans la console elle-même. Cela inclut le code, les graphiques, le son, la musique et les cartes. Les jeux peuvent être facilement partagés en tant qu&amp;rsquo;images PNG qui représentent des cartouches.</description>
     </item>
     
     <item>
       <title>Bio</title>
-      <link>http://example.org/fr/about/</link>
+      <link>https://dr-picnic.com/fr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/fr/about/</guid>
+      <guid>https://dr-picnic.com/fr/about/</guid>
       <description>J&amp;rsquo;ai commencé à faire des jeux vidéo sur un ordinateur Amstrad à l&amp;rsquo;école primaire. Une grande partie de mon enfance a été consacrée à des projets créatifs. Faire des jeux vidéo et des jeux de société a toujours été parmi mes activités préférées et cette passion m&amp;rsquo;a suivi pendant toutes mes études. En école d’ingénieur, j&amp;rsquo;ai réuni une équipe pour travailler sur un ambitieux projet de jeu de stratégie en temps réel.</description>
     </item>
     

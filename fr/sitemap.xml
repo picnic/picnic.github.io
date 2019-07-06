@@ -3,202 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/fr/</loc>
+    <loc>https://dr-picnic.com/fr/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://dr-picnic.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://dr-picnic.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/games/</loc>
+    <loc>https://dr-picnic.com/fr/games/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/games/"
+                href="https://dr-picnic.com/games/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/games/"
+                href="https://dr-picnic.com/fr/games/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/games/the-myterious-stones/</loc>
+    <loc>https://dr-picnic.com/fr/games/the-myterious-stones/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/games/the-myterious-stones/"
+                href="https://dr-picnic.com/games/the-myterious-stones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/games/the-myterious-stones/"
+                href="https://dr-picnic.com/fr/games/the-myterious-stones/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/games/le-mystere-des-pierres/</loc>
+    <loc>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/fr/blog/</loc>
+    <loc>https://dr-picnic.com/fr/blog/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/"
+                href="https://dr-picnic.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/blog/"
+                href="https://dr-picnic.com/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/blog/game-jam/</loc>
+    <loc>https://dr-picnic.com/fr/blog/game-jam/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/game-jam/"
+                href="https://dr-picnic.com/blog/game-jam/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/blog/game-jam/"
+                href="https://dr-picnic.com/fr/blog/game-jam/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/games/paperboy-droid/</loc>
+    <loc>https://dr-picnic.com/fr/games/paperboy-droid/</loc>
     <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/games/paperboy-droid/"
+                href="https://dr-picnic.com/games/paperboy-droid/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/games/paperboy-droid/"
+                href="https://dr-picnic.com/fr/games/paperboy-droid/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/blog/great-time-family/</loc>
+    <loc>https://dr-picnic.com/fr/blog/great-time-family/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/great-time-family/"
+                href="https://dr-picnic.com/blog/great-time-family/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/blog/great-time-family/"
+                href="https://dr-picnic.com/fr/blog/great-time-family/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/games/great-bee/</loc>
+    <loc>https://dr-picnic.com/fr/games/great-bee/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/games/great-bee/"
+                href="https://dr-picnic.com/games/great-bee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/games/great-bee/"
+                href="https://dr-picnic.com/fr/games/great-bee/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/blog/great-bee/</loc>
+    <loc>https://dr-picnic.com/fr/blog/great-bee/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/great-bee/"
+                href="https://dr-picnic.com/blog/great-bee/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/blog/great-bee/"
+                href="https://dr-picnic.com/fr/blog/great-bee/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/blog/pico-8/</loc>
+    <loc>https://dr-picnic.com/fr/blog/pico-8/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/blog/pico-8/"
+                href="https://dr-picnic.com/blog/pico-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/blog/pico-8/"
+                href="https://dr-picnic.com/fr/blog/pico-8/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/about/</loc>
+    <loc>https://dr-picnic.com/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about/"
+                href="https://dr-picnic.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/about/"
+                href="https://dr-picnic.com/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/categories/</loc>
+    <loc>https://dr-picnic.com/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://dr-picnic.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://dr-picnic.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/fr/tags/</loc>
+    <loc>https://dr-picnic.com/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://dr-picnic.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://dr-picnic.com/fr/tags/"
                 />
   </url>
   
