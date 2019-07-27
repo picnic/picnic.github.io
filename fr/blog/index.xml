@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Un an après</title>
+      <link>https://dr-picnic.com/fr/blog/one-year-later/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/one-year-later/</guid>
+      <description>Cela fait presque un an depuis le dernier article que j&amp;rsquo;ai écrit sur ce blog. Cette année a été l&amp;rsquo;une des plus chargées de toute ma vie. Après la game jam de l’année dernière, j’ai décidé de me lancer sérieusement dans la création de jeux vidéo. J&amp;rsquo;ai demandé un emploi à temps partiel et j&amp;rsquo;avais prévu de créer un jeu qui pourrait être vendu d&amp;rsquo;ici un an. Cela devait être un test pour voir si ce serait une option viable pour commencer à faire des jeux à temps plein.</description>
+    </item>
     
     <item>
       <title>Une Game Jam importante</title>

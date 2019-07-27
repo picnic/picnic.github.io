@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Fri, 10 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One year later</title>
+      <link>https://dr-picnic.com/blog/one-year-later/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/blog/one-year-later/</guid>
+      <description>It has been almost a year since the last article I wrote on this blog. This year has been one of the busiest I ever had. After last year&amp;rsquo;s game jam, I decided to try going serious about making games. I asked for a part-time job and planned to make a game that could be sold within a year. This was intended to be a test to see if it would be a viable option to start making games full time.</description>
+    </item>
     
     <item>
       <title>A Game Jam That Mattered</title>
