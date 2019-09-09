@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot-au-jeu 2.0</title>
+      <link>https://dr-picnic.com/blog/game-jam-2/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/blog/game-jam-2/</guid>
+      <description>Last June, I participated in the second edition of the “Pot-au-jeu” game jam organized by the french Youtuber At0mium. Last year, I made a game named Paperboy Droid which was ranked second in the gameplay category. This year, I made a game named “Le mystère des pierres” (The mystery of stones). It’s a puzzle game where the player moves stones to give orders to a robot. Without knowing it, the player will learn the basic notions of programming.</description>
+    </item>
     
     <item>
       <title>One year later</title>

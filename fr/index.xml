@@ -6,10 +6,19 @@
     <description>Recent content on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot-au-jeu 2.0</title>
+      <link>https://dr-picnic.com/fr/blog/game-jam-2/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/game-jam-2/</guid>
+      <description>En juin dernier, j&amp;rsquo;ai participé à la deuxième édition de la game jam Pot-au-jeu organisé par le Youtuber français At0mium. L&amp;rsquo;année dernière, j&amp;rsquo;avais créé un jeu intitulé Paperboy Droid, classé deuxième dans la catégorie gameplay. Cette année, j&amp;rsquo;ai créé un jeu intitulé Le mystère des pierres. C’est un puzzle game dans lequel le joueur déplace des pierres pour donner des ordres à un robot. Sans le savoir, le joueur va apprendre les notions de base de la programmation.</description>
+    </item>
     
     <item>
       <title>Un an après</title>
@@ -99,7 +108,7 @@ Le test a commencé avec la petite sœur de ma femme qui est à l&amp;rsquo;éco
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dr-picnic.com/fr/about/</guid>
-      <description>J&amp;rsquo;ai commencé à faire des jeux vidéo sur un ordinateur Amstrad à l&amp;rsquo;école primaire. Une grande partie de mon enfance a été consacrée à des projets créatifs. Faire des jeux vidéo et des jeux de société a toujours été parmi mes activités préférées et cette passion m&amp;rsquo;a suivi pendant toutes mes études. En école d’ingénieur, j&amp;rsquo;ai réuni une équipe pour travailler sur un ambitieux projet de jeu de stratégie en temps réel.</description>
+      <description>Je suis passionné par la programmation et ce que l&amp;rsquo;on peut faire avec depuis mon enfance. J&amp;rsquo;ai exploré de nombreux domaines du développement logiciel tels que les jeux 2D et 3D, les applications Web, les logiciels embarqués et temps réel, la programmation fonctionnelle, les méthodes formelles, l&amp;rsquo;apprentissage automatique, la visualisation de données et le déploiement. J&amp;rsquo;ai commencé beaucoup de projets et je travaille toujours sur certains d&amp;rsquo;entre eux. C’est ce qui me fait vivre: libérer ma créativité pour résoudre de nouveaux problèmes tout en faisant fonctionner les choses.</description>
     </item>
     
   </channel>

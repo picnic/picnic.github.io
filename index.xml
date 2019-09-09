@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot-au-jeu 2.0</title>
+      <link>https://dr-picnic.com/blog/game-jam-2/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/blog/game-jam-2/</guid>
+      <description>Last June, I participated in the second edition of the “Pot-au-jeu” game jam organized by the french Youtuber At0mium. Last year, I made a game named Paperboy Droid which was ranked second in the gameplay category. This year, I made a game named “Le mystère des pierres” (The mystery of stones). It’s a puzzle game where the player moves stones to give orders to a robot. Without knowing it, the player will learn the basic notions of programming.</description>
+    </item>
     
     <item>
       <title>One year later</title>
@@ -92,8 +101,7 @@ First, a little background. Short version. I started creating video games long a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dr-picnic.com/about/</guid>
-      <description>I started making video games on an Amstrad computer back in primary school. A big part of my childhood has been devoted to creative projects. Making video games and board games has always been among my favourite activities. This hobby followed me during all my studies. While in postgraduate, I gathered a team to work on an ambitious real-time strategy game project.
-However, after my studies, I focused on other subjects.</description>
+      <description>I&amp;rsquo;ve been passionate about programming and what can be achieved with it since my childhood. I explored a lot of areas in software development such as 2D and 3D games, web applications, real-time and embedded software, functional programming, formal methods, machine learning, data visualization, and deployment. I started a lot of projects and I’m always working on some of them. This is what makes me feel alive: unleashing my creativity to solve new problems while making things work.</description>
     </item>
     
   </channel>

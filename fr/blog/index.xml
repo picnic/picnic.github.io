@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pot-au-jeu 2.0</title>
+      <link>https://dr-picnic.com/fr/blog/game-jam-2/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/game-jam-2/</guid>
+      <description>En juin dernier, j&amp;rsquo;ai participé à la deuxième édition de la game jam Pot-au-jeu organisé par le Youtuber français At0mium. L&amp;rsquo;année dernière, j&amp;rsquo;avais créé un jeu intitulé Paperboy Droid, classé deuxième dans la catégorie gameplay. Cette année, j&amp;rsquo;ai créé un jeu intitulé Le mystère des pierres. C’est un puzzle game dans lequel le joueur déplace des pierres pour donner des ordres à un robot. Sans le savoir, le joueur va apprendre les notions de base de la programmation.</description>
+    </item>
     
     <item>
       <title>Un an après</title>
