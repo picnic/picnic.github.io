@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Dr Picnic</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Learning to draw</title>
+      <link>https://dr-picnic.com/fr/blog/learning-to-draw/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/learning-to-draw/</guid>
+      <description>Dans le contexte du Covid-19, je vais rester quelques semaines chez mes parents. Je ne travaille pas parce que je suis malade mais je peux quand même faire des activités quelques heures par jour. J&amp;rsquo;ai donc finalement décidé d&amp;rsquo;apprendre à dessiner correctement. Mes compétences en dessin ont été une limitation pour bon nombre de mes projets. J&amp;rsquo;ai trouvé quelques cours d&amp;rsquo;introduction sur Udemy. J&amp;rsquo;ai également créé un compte instagram où je publierai mes dessins.</description>
+    </item>
     
     <item>
       <title>Pot-au-jeu 2.0</title>
