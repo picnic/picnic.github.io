@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mes dessins on Dr Picnic</title>
+    <link>https://dr-picnic.com/fr/art/drawings/</link>
+    <description>Recent content in Mes dessins on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-picnic.com/fr/art/drawings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lapin</title>
+      <link>https://dr-picnic.com/fr/art/drawings/200411_rabbit/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/drawings/200411_rabbit/</guid>
+      <description>Un lapin que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
+    </item>
+    
+    <item>
+      <title>Chat</title>
+      <link>https://dr-picnic.com/fr/art/drawings/200410_cat/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/drawings/200410_cat/</guid>
+      <description>Un chat que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
+    </item>
+    
+    <item>
+      <title>Ours</title>
+      <link>https://dr-picnic.com/fr/art/drawings/200408_bear/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/drawings/200408_bear/</guid>
+      <description>Un ours que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
+    </item>
+    
+    <item>
+      <title>Chien</title>
+      <link>https://dr-picnic.com/fr/art/drawings/200405_dog/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/drawings/200405_dog/</guid>
+      <description>Un chien que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
+    </item>
+    
+  </channel>
+</rss>
