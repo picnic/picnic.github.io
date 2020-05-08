@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Switching to Bépo</title>
+      <link>https://dr-picnic.com/blog/bepo/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/blog/bepo/</guid>
+      <description>About a year ago I started having severe pain in my left wrist when I was typing all day on the keyboard. A few sessions with the osteopath made this pain disappear. However, each time I used my wrist again intensively the pains would return. After some research on the internet, I saw that people who were in the same situation as me had solved their problem by changing the layout of their keyboard to an ergonomic layout.</description>
+    </item>
     
     <item>
       <title>Learning to draw</title>

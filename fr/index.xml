@@ -6,10 +6,19 @@
     <description>Recent content on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Passage au Bépo</title>
+      <link>https://dr-picnic.com/fr/blog/bepo/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/bepo/</guid>
+      <description>Il y a environ un an j’ai commencé à avoir d’importantes douleurs au poignet gauche, lorsque je tapais toute la journée au clavier. Quelques séances chez l’ostéopathe ont fait disparaitre ces douleurs. Cependant, à chaque fois que j’utilisais de nouveau mon poignet intensivement les douleurs revenaient. Après quelques recherches sur internet, j’ai vu que des personnes qui étaient dans le même cas que moi avaient résolu leur problème en changeant la disposition de leur clavier pour une disposition ergonomique.</description>
+    </item>
     
     <item>
       <title>Lapin</title>
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>Learning to draw</title>
+      <title>Apprendre à dessiner</title>
       <link>https://dr-picnic.com/fr/blog/learning-to-draw/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
