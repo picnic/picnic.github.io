@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cottage</title>
+      <link>https://dr-picnic.com/art/illustrations/200512_cottage/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/illustrations/200512_cottage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Switching to Bépo</title>
@@ -22,48 +31,12 @@
     </item>
     
     <item>
-      <title>Rabbit</title>
-      <link>https://dr-picnic.com/art/drawings/200411_rabbit/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/art/drawings/200411_rabbit/</guid>
-      <description>A rabbit I draw in my first drawing course. I sketched it on paper and inked it using Procreate on iPad.</description>
-    </item>
-    
-    <item>
-      <title>Cat</title>
-      <link>https://dr-picnic.com/art/drawings/200410_cat/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/art/drawings/200410_cat/</guid>
-      <description>A cat I draw in my first drawing course. I sketched it on paper and inked it using Procreate on iPad.</description>
-    </item>
-    
-    <item>
-      <title>Bear</title>
-      <link>https://dr-picnic.com/art/drawings/200408_bear/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/art/drawings/200408_bear/</guid>
-      <description>A bear I draw in my first drawing course. I sketched it on paper and inked it using Procreate on iPad.</description>
-    </item>
-    
-    <item>
       <title>Learning to draw</title>
       <link>https://dr-picnic.com/blog/learning-to-draw/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dr-picnic.com/blog/learning-to-draw/</guid>
       <description>In the context of Covid-19, I will stay for some weeks at my parent’s house. I’m not working because I’m sick but I can still do some activity for a few hours a day. So I’ve finally decided to learn how to draw properly. My drawing skills have been a limitation for many of my projects. I found some introductory courses on Udemy. I also created an instagram account where I’ll post my drawings.</description>
-    </item>
-    
-    <item>
-      <title>Dog</title>
-      <link>https://dr-picnic.com/art/drawings/200405_dog/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/art/drawings/200405_dog/</guid>
-      <description>A dog I draw in my first drawing course. I sketched it on paper and inked it using Procreate on iPad.</description>
     </item>
     
     <item>
@@ -91,6 +64,33 @@
       
       <guid>https://dr-picnic.com/games/the-myterious-stones/</guid>
       <description>This game is an updated version of &amp;ldquo;Le mystère des pierres&amp;rdquo; (which is available only in french), a game developed for the 60 hours &amp;ldquo;Pot-au-Jeu&amp;rdquo; game jam (organized by the french youtuber At0mium).</description>
+    </item>
+    
+    <item>
+      <title>Assma</title>
+      <link>https://dr-picnic.com/art/street_art/190517_assma/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_assma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/art/street_art/190517_hani_jaune/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_hani_jaune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/art/street_art/190517_hani_violet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_hani_violet/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chalet</title>
+      <link>https://dr-picnic.com/fr/art/illustrations/200512_cottage/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/illustrations/200512_cottage/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Passage au Bépo</title>
@@ -21,48 +30,12 @@
     </item>
     
     <item>
-      <title>Lapin</title>
-      <link>https://dr-picnic.com/fr/art/drawings/200411_rabbit/</link>
-      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/fr/art/drawings/200411_rabbit/</guid>
-      <description>Un lapin que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
-    </item>
-    
-    <item>
-      <title>Chat</title>
-      <link>https://dr-picnic.com/fr/art/drawings/200410_cat/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/fr/art/drawings/200410_cat/</guid>
-      <description>Un chat que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
-    </item>
-    
-    <item>
-      <title>Ours</title>
-      <link>https://dr-picnic.com/fr/art/drawings/200408_bear/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/fr/art/drawings/200408_bear/</guid>
-      <description>Un ours que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
-    </item>
-    
-    <item>
       <title>Apprendre à dessiner</title>
       <link>https://dr-picnic.com/fr/blog/learning-to-draw/</link>
       <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dr-picnic.com/fr/blog/learning-to-draw/</guid>
       <description>Dans le contexte du Covid-19, je vais rester quelques semaines chez mes parents. Je ne travaille pas parce que je suis malade mais je peux quand même faire des activités quelques heures par jour. J&amp;rsquo;ai donc finalement décidé d&amp;rsquo;apprendre à dessiner correctement. Mes compétences en dessin ont été une limitation pour bon nombre de mes projets. J&amp;rsquo;ai trouvé quelques cours d&amp;rsquo;introduction sur Udemy. J&amp;rsquo;ai également créé un compte instagram où je publierai mes dessins.</description>
-    </item>
-    
-    <item>
-      <title>Chien</title>
-      <link>https://dr-picnic.com/fr/art/drawings/200405_dog/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/fr/art/drawings/200405_dog/</guid>
-      <description>Un chien que j’ai dessiné pour mon premier cours de dessin. J’ai fait le croquis sur papier et l’encrage avec Procreate sur iPad.</description>
     </item>
     
     <item>
@@ -99,6 +72,33 @@
       
       <guid>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</guid>
       <description>C&amp;rsquo;est ma deuxième participation à la Game Jam POT-AU-JEU et c&amp;rsquo;est aussi ma deuxième Game Jam tout court. J&amp;rsquo;ai voulu aller un peu plus loin que la dernière fois et essayant de développer un jeu plus complexe et faisant appel à de nouvelles compétences.</description>
+    </item>
+    
+    <item>
+      <title>Assma</title>
+      <link>https://dr-picnic.com/fr/art/street_art/190517_assma/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/street_art/190517_assma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/fr/art/street_art/190517_hani_jaune/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/street_art/190517_hani_jaune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/fr/art/street_art/190517_hani_violet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/art/street_art/190517_hani_violet/</guid>
+      <description></description>
     </item>
     
     <item>

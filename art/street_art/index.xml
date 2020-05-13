@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street Art on Dr Picnic</title>
+    <link>https://dr-picnic.com/art/street_art/</link>
+    <description>Recent content in Street Art on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2018-2019</copyright>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-picnic.com/art/street_art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assma</title>
+      <link>https://dr-picnic.com/art/street_art/190517_assma/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_assma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/art/street_art/190517_hani_jaune/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_hani_jaune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/art/street_art/190517_hani_violet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/art/street_art/190517_hani_violet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
