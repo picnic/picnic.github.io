@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mon programme de dessin</title>
+      <link>https://dr-picnic.com/fr/blog/my-drawing-program/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/my-drawing-program/</guid>
+      <description>Le 6 avril, je commençais un défi pour me mettre au dessin. J’ai ouvert un compte instagram sur lequel j’ai publié un dessin par jour pendant 21 jours. J’ai suivi des cours pour débutant sur Udemy qu’y m’ont bien aidé pour commencer. J’ai toujours voulu savoir dessiner. Le dessin a toujours été une grosse limitation dans mes projets personnels. Pourtant, je n’ai jamais osé m’y mettre. J’avais l’impression que ce n’était pas fait pour moi, que ça m’était inaccessible.</description>
+    </item>
     
     <item>
       <title>Passage au Bépo</title>
