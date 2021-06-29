@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dr-picnic.com/fr/blog/learning-to-draw/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dr-picnic.com/blog/learning-to-draw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dr-picnic.com/fr/blog/learning-to-draw/"
-                />
-  </url>
-  
-  <url>
     <loc>https://dr-picnic.com/fr/blog/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +19,7 @@
   
   <url>
     <loc>https://dr-picnic.com/fr/</loc>
-    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,6 +29,36 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dr-picnic.com/fr/blog/rpg/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/blog/rpg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/blog/rpg/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dr-picnic.com/fr/blog/learning-to-draw/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/blog/learning-to-draw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/blog/learning-to-draw/"
                 />
   </url>
   
