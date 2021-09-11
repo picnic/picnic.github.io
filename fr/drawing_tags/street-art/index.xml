@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street Art on Dr Picnic</title>
+    <link>https://dr-picnic.com/fr/drawing_tags/street-art/</link>
+    <description>Recent content in Street Art on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-picnic.com/fr/drawing_tags/street-art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assma</title>
+      <link>https://dr-picnic.com/fr/drawings/190517_assma/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/drawings/190517_assma/</guid>
+      <description>Réalisé lors d’une initiation au StreetArt d’un séminaire de travail</description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/fr/drawings/190517_hani_jaune/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/drawings/190517_hani_jaune/</guid>
+      <description>Réalisé lors d’une initiation au StreetArt d’un séminaire de travail</description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/fr/drawings/190517_hani_violet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/drawings/190517_hani_violet/</guid>
+      <description>Réalisé lors d’une initiation au StreetArt d’un séminaire de travail</description>
+    </item>
+    
+  </channel>
+</rss>

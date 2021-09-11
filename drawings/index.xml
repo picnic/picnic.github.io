@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drawings on Dr Picnic</title>
+    <link>https://dr-picnic.com/drawings/</link>
+    <description>Recent content in Drawings on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2018-2019</copyright>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-picnic.com/drawings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belly Dance</title>
+      <link>https://dr-picnic.com/drawings/210908_belly_dance/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210908_belly_dance/</guid>
+      <description>Inktober 52 - Prompt 36: Golden</description>
+    </item>
+    
+    <item>
+      <title>Yin Yang Lovers</title>
+      <link>https://dr-picnic.com/drawings/210831_yin_yang_lovers/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210831_yin_yang_lovers/</guid>
+      <description>Inktober 52 - Prompt 35: Yin Yang</description>
+    </item>
+    
+    <item>
+      <title>Gnome Farmer</title>
+      <link>https://dr-picnic.com/drawings/210824_gnome_farmer/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210824_gnome_farmer/</guid>
+      <description>Inktober 52 - Prompt 34: Doorstep</description>
+    </item>
+    
+    <item>
+      <title>Jedi Meditation</title>
+      <link>https://dr-picnic.com/drawings/210820_jedi_meditation/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210820_jedi_meditation/</guid>
+      <description>Inktober 52 - Prompt 33: Light</description>
+    </item>
+    
+    <item>
+      <title>Assma</title>
+      <link>https://dr-picnic.com/drawings/190517_assma/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/190517_assma/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/drawings/190517_hani_jaune/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/190517_hani_jaune/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
+    </item>
+    
+    <item>
+      <title>Hani</title>
+      <link>https://dr-picnic.com/drawings/190517_hani_violet/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/190517_hani_violet/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
+    </item>
+    
+  </channel>
+</rss>

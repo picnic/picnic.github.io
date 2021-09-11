@@ -7,64 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2018-2019</copyright>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Belly Dance</title>
+      <link>https://dr-picnic.com/drawings/210908_belly_dance/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210908_belly_dance/</guid>
+      <description>Inktober 52 - Prompt 36: Golden</description>
+    </item>
+    
+    <item>
+      <title>Yin Yang Lovers</title>
+      <link>https://dr-picnic.com/drawings/210831_yin_yang_lovers/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210831_yin_yang_lovers/</guid>
+      <description>Inktober 52 - Prompt 35: Yin Yang</description>
+    </item>
+    
+    <item>
+      <title>Gnome Farmer</title>
+      <link>https://dr-picnic.com/drawings/210824_gnome_farmer/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210824_gnome_farmer/</guid>
+      <description>Inktober 52 - Prompt 34: Doorstep</description>
+    </item>
+    
+    <item>
+      <title>Jedi Meditation</title>
+      <link>https://dr-picnic.com/drawings/210820_jedi_meditation/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/drawings/210820_jedi_meditation/</guid>
+      <description>Inktober 52 - Prompt 33: Light</description>
+    </item>
+    
+    <item>
       <title>Role Playing Games</title>
-      <link>https://dr-picnic.com/blog/rpg/</link>
+      <link>https://dr-picnic.com/blog/210629_rpg/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/rpg/</guid>
+      <guid>https://dr-picnic.com/blog/210629_rpg/</guid>
       <description>I have always been passionate about imaginary worlds and great adventures. Until I was 16 years old, I spent a good part of my free time creating fantasy worlds, heroes, creatures, and imagining stories. Everything seemed destined for role-playing games, yet I only played a few games in middle and high school. I just didn&amp;rsquo;t have the people around me to play them.
 Then, after watching Actual Plays, the urge to play became irresistible.</description>
     </item>
     
     <item>
       <title>Learning to Draw</title>
-      <link>https://dr-picnic.com/blog/learning-to-draw/</link>
+      <link>https://dr-picnic.com/blog/200529_learning-to-draw/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/learning-to-draw/</guid>
+      <guid>https://dr-picnic.com/blog/200529_learning-to-draw/</guid>
       <description>In the context of Covid-19, I stayed with my parents for a few weeks, sick. I was still able to do activities for a few hours a day. So I finally decided to learn how to draw. My drawing skills have been a limitation for many of my projects, whether they are video games, board games or educational tools.
 On April 6, I started a challenge to get started. I opened an account instagram on which I posted one drawing a day for 21 days.</description>
     </item>
     
     <item>
-      <title>Cottage</title>
-      <link>https://dr-picnic.com/art/illustrations/200512_cottage/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dr-picnic.com/art/illustrations/200512_cottage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Switching to Bépo</title>
-      <link>https://dr-picnic.com/blog/bepo/</link>
+      <link>https://dr-picnic.com/blog/200508_bepo/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/bepo/</guid>
+      <guid>https://dr-picnic.com/blog/200508_bepo/</guid>
       <description>About a year ago I started having severe pain in my left wrist when I was typing all day on the keyboard. A few sessions with the osteopath made this pain disappear. However, each time I used my wrist again intensively the pains would return. After some research on the internet, I saw that people who were in the same situation as me had solved their problem by changing the layout of their keyboard to an ergonomic layout.</description>
     </item>
     
     <item>
       <title>Pot-au-jeu 2.0</title>
-      <link>https://dr-picnic.com/blog/game-jam-2/</link>
+      <link>https://dr-picnic.com/blog/190909_game-jam-2/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/game-jam-2/</guid>
+      <guid>https://dr-picnic.com/blog/190909_game-jam-2/</guid>
       <description>Last June, I participated in the second edition of the “Pot-au-jeu” game jam organized by the french Youtuber At0mium. Last year, I made a game named Paperboy Droid which was ranked second in the gameplay category. This year, I made a game named “Le mystère des pierres” (The mystery of stones). It’s a puzzle game where the player moves stones to give orders to a robot. Without knowing it, the player will learn the basic notions of programming.</description>
     </item>
     
     <item>
       <title>One year later</title>
-      <link>https://dr-picnic.com/blog/one-year-later/</link>
+      <link>https://dr-picnic.com/blog/190727_one-year-later/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/one-year-later/</guid>
+      <guid>https://dr-picnic.com/blog/190727_one-year-later/</guid>
       <description>It has been almost a year since the last article I wrote on this blog. This year has been one of the busiest I ever had. After last year&amp;rsquo;s game jam, I decided to try going serious about making games. I asked for a part-time job and planned to make a game that could be sold within a year. This was intended to be a test to see if it would be a viable option to start making games full time.</description>
     </item>
     
@@ -79,37 +106,37 @@ On April 6, I started a challenge to get started. I opened an account instagram 
     
     <item>
       <title>Assma</title>
-      <link>https://dr-picnic.com/art/street_art/190517_assma/</link>
+      <link>https://dr-picnic.com/drawings/190517_assma/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/art/street_art/190517_assma/</guid>
-      <description></description>
+      <guid>https://dr-picnic.com/drawings/190517_assma/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
     </item>
     
     <item>
       <title>Hani</title>
-      <link>https://dr-picnic.com/art/street_art/190517_hani_jaune/</link>
+      <link>https://dr-picnic.com/drawings/190517_hani_jaune/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/art/street_art/190517_hani_jaune/</guid>
-      <description></description>
+      <guid>https://dr-picnic.com/drawings/190517_hani_jaune/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
     </item>
     
     <item>
       <title>Hani</title>
-      <link>https://dr-picnic.com/art/street_art/190517_hani_violet/</link>
+      <link>https://dr-picnic.com/drawings/190517_hani_violet/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/art/street_art/190517_hani_violet/</guid>
-      <description></description>
+      <guid>https://dr-picnic.com/drawings/190517_hani_violet/</guid>
+      <description>Made during an initiation to StreetArt of a working seminar</description>
     </item>
     
     <item>
       <title>A Game Jam That Mattered</title>
-      <link>https://dr-picnic.com/blog/game-jam/</link>
+      <link>https://dr-picnic.com/blog/180810_game-jam/</link>
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/game-jam/</guid>
+      <guid>https://dr-picnic.com/blog/180810_game-jam/</guid>
       <description>A bit more than two weeks ago, I took part in a game jam organized by a french Youtuber (At0mium). For those who don’t know what a game jam is, it’s basically a video game creation contest where you create a game within a short period of time. In my case, I created the game from scratch during a weekend on the theme: “Faire du neuf avec du vieux”. When I enrolled, I thought that it would be a fun experience and a small break from my current project.</description>
     </item>
     
@@ -124,10 +151,10 @@ On April 6, I started a challenge to get started. I opened an account instagram 
     
     <item>
       <title>Great time with my family</title>
-      <link>https://dr-picnic.com/blog/great-time-family/</link>
+      <link>https://dr-picnic.com/blog/180611_great-time-family/</link>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/great-time-family/</guid>
+      <guid>https://dr-picnic.com/blog/180611_great-time-family/</guid>
       <description>A few days after finishing Great Bee (the first game I actually released), I went to a barbecue at my wife’s family. Of course, I took my computer with the game on it. At that point, I had no idea what kind of feedback I would get. I just let them play the game.
 The test started with my wife’s little sister who is in primary school. It was before dinner.</description>
     </item>
@@ -143,19 +170,19 @@ The test started with my wife’s little sister who is in primary school. It was
     
     <item>
       <title>Great Bee - First game: done!</title>
-      <link>https://dr-picnic.com/blog/great-bee/</link>
+      <link>https://dr-picnic.com/blog/180512_great-bee/</link>
       <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/great-bee/</guid>
+      <guid>https://dr-picnic.com/blog/180512_great-bee/</guid>
       <description>I just finished my first game! It&amp;rsquo;s called Great Bee. You can play it online on itch.io or download it for free. Please share it with your friends if you like it and feel free to write any feedback on the game. In Great Bee, you play a bee that have to forage all the flowers in every level. The frog and the sun are your enemies. Colliding with them kills you.</description>
     </item>
     
     <item>
       <title>PICO-8 - A Childhood Dream</title>
-      <link>https://dr-picnic.com/blog/pico-8/</link>
+      <link>https://dr-picnic.com/blog/180501_pico-8/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-picnic.com/blog/pico-8/</guid>
+      <guid>https://dr-picnic.com/blog/180501_pico-8/</guid>
       <description>I read a lot of positive reviews about the PICO-8 fantasy console. Instead of listing the good points it has, I will tell you my story with PICO-8. For those who don’t know, it is a fake console that allows making games within the console itself. This includes code, graphics, sound, music, and maps. The games can be easily shared as PNG cartridge images.
 First, a little background. Short version. I started creating video games long ago and I really loved it.</description>
     </item>

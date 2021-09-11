@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan Art on Dr Picnic</title>
+    <link>https://dr-picnic.com/fr/drawing_tags/fan-art/</link>
+    <description>Recent content in Fan Art on Dr Picnic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dr-picnic.com/fr/drawing_tags/fan-art/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Méditation Jedi</title>
+      <link>https://dr-picnic.com/fr/drawings/210820_jedi_meditation/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/drawings/210820_jedi_meditation/</guid>
+      <description>Inktober 52 - Prompt 33: Light</description>
+    </item>
+    
+  </channel>
+</rss>
