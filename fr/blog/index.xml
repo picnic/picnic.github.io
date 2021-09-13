@@ -6,10 +6,19 @@
     <description>Recent content in Blog on Dr Picnic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dr-picnic.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ma méthode pour apprendre à dessiner</title>
+      <link>https://dr-picnic.com/fr/blog/210913_my_method_for_learning_to_draw/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dr-picnic.com/fr/blog/210913_my_method_for_learning_to_draw/</guid>
+      <description>Lors du premier confinement, j’avais suivi des cours pour apprendre à dessiner. Je n’avais pas atteint un niveau incroyable mais cele m’avait permis de me décomplexer et d’oser dessiner. Je m’étais rendu compte qu’une fois mes blocages dépassés, j’aimais beaucoup le dessin. J’ai essayé de poursuivre mon apprentissage après le confinement en adoptant une approche plus académique pour progresser plus vite. J’avais choisi de suivre le programme de Yoann Bomal, qui me semblait approprié.</description>
+    </item>
     
     <item>
       <title>Jeux de rôle</title>
