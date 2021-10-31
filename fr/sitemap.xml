@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dr-picnic.com/fr/blog/</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +14,9 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/</loc>
-    <lastmod>2021-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,9 +27,481 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://dr-picnic.com/fr/blog/211031_inktober/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/blog/211031_inktober/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/blog/211031_inktober/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawing_tags/encre/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawing_tags/inktober/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawing_tags/inktober/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawing_tags/inktober/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawing_tags/inktober2021/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawing_tags/inktober2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawing_tags/inktober2021/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211030_slither_and_risk/</loc>
+    <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211030_slither_and_risk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211030_slither_and_risk/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211029_patch/</loc>
+    <lastmod>2021-10-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211029_patch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211029_patch/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211028_crispy/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211028_crispy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211028_crispy/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211027_spark/</loc>
+    <lastmod>2021-10-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211027_spark/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211027_spark/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211026_connect/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211026_connect/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211026_connect/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211025_splat/</loc>
+    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211025_splat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211025_splat/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211024_extinct/</loc>
+    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211024_extinct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211024_extinct/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211023_leak/</loc>
+    <lastmod>2021-10-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211023_leak/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211023_leak/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211022_open/</loc>
+    <lastmod>2021-10-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211022_open/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211022_open/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211021_fluffy/</loc>
+    <lastmod>2021-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211021_fluffy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211021_fluffy/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211020_sprout/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211020_sprout/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211020_sprout/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211019_loop/</loc>
+    <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211019_loop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211019_loop/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211018_moon/</loc>
+    <lastmod>2021-10-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211018_moon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211018_moon/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211017_collide/</loc>
+    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211017_collide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211017_collide/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211016_compass/</loc>
+    <lastmod>2021-10-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211016_compass/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211016_compass/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211015_helmet/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211015_helmet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211015_helmet/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211014_tick/</loc>
+    <lastmod>2021-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211014_tick/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211014_tick/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211013_roof/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211013_roof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211013_roof/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211012_stuck/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211012_stuck/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211012_stuck/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211011_sour/</loc>
+    <lastmod>2021-10-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211011_sour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211011_sour/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211010_pick/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211010_pick/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211010_pick/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211009_pressure/</loc>
+    <lastmod>2021-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211009_pressure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211009_pressure/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211008_watch/</loc>
+    <lastmod>2021-10-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211008_watch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211008_watch/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211007_fan/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211007_fan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211007_fan/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211006_spirit/</loc>
+    <lastmod>2021-10-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211006_spirit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211006_spirit/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211005_raven/</loc>
+    <lastmod>2021-10-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211005_raven/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211005_raven/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211004_knot/</loc>
+    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211004_knot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211004_knot/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211003_vessel/</loc>
+    <lastmod>2021-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211003_vessel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211003_vessel/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211002_suit/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211002_suit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211002_suit/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/211001_crystal/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/211001_crystal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/211001_crystal/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/210926_siege_castle/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawing_tags/illustration/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawing_tags/illustration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawing_tags/illustration/"
+                />
+  </url><url>
+    <loc>https://dr-picnic.com/fr/drawings/210915_spooky_fridge/</loc>
+    <lastmod>2021-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dr-picnic.com/drawings/210915_spooky_fridge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dr-picnic.com/fr/drawings/210915_spooky_fridge/"
+                />
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/210913_my_method_for_learning_to_draw/</loc>
     <lastmod>2021-09-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +514,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/210913_my_method_for_learning_to_draw/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/210908_belly_dance/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,44 +527,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/210908_belly_dance/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://dr-picnic.com/fr/drawings/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dr-picnic.com/drawings/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dr-picnic.com/fr/drawings/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dr-picnic.com/fr/drawing_tags/encre/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dr-picnic.com/fr/drawing_tags/illustration/</loc>
-    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dr-picnic.com/drawing_tags/illustration/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dr-picnic.com/fr/drawing_tags/illustration/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/210831_yin_yang_lovers/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -110,9 +540,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/210831_yin_yang_lovers/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/210824_gnome_farmer/</loc>
     <lastmod>2021-08-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -125,9 +553,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/210824_gnome_farmer/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawing_tags/fan-art/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -140,9 +566,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawing_tags/fan-art/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/210820_jedi_meditation/</loc>
     <lastmod>2021-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -155,9 +579,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/210820_jedi_meditation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/210629_rpg/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -170,9 +592,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/210629_rpg/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/200529_learning-to-draw/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -185,9 +605,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/200529_learning-to-draw/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/200508_bepo/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -200,9 +618,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/200508_bepo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/190909_game-jam-2/</loc>
     <lastmod>2019-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -215,9 +631,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/190909_game-jam-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/190727_one-year-later/</loc>
     <lastmod>2019-07-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -230,9 +644,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/190727_one-year-later/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/games/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -245,9 +657,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/games/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/games/the-myterious-stones/</loc>
     <lastmod>2019-06-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -260,14 +670,10 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/games/the-myterious-stones/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/games/le-mystere-des-pierres/</loc>
     <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/190517_assma/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -280,9 +686,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/190517_assma/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/190517_hani_jaune/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -295,9 +699,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/190517_hani_jaune/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawings/190517_hani_violet/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -310,9 +712,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawings/190517_hani_violet/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/drawing_tags/street-art/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -325,9 +725,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/drawing_tags/street-art/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/180810_game-jam/</loc>
     <lastmod>2018-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -340,9 +738,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/180810_game-jam/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/games/paperboy-droid/</loc>
     <lastmod>2018-07-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -355,9 +751,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/games/paperboy-droid/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/180611_great-time-family/</loc>
     <lastmod>2018-06-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -370,9 +764,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/180611_great-time-family/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/games/great-bee/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -385,9 +777,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/games/great-bee/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/180512_great-bee/</loc>
     <lastmod>2018-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -400,9 +790,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/180512_great-bee/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/blog/180501_pico-8/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -415,9 +803,7 @@
                 hreflang="fr"
                 href="https://dr-picnic.com/fr/blog/180501_pico-8/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://dr-picnic.com/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -430,5 +816,4 @@
                 href="https://dr-picnic.com/fr/about/"
                 />
   </url>
-  
 </urlset>
